@@ -28,8 +28,8 @@ Run : ./server 5000
       ./client 5000
 
 Commands:       Parameters:
-        /m      [message]               # SENDS MESSAGE TO ALL GROUP MEMBERS.
-        /msg    [name] [message]        # SENDS PRIVATE MESSAGE TO SPECIFIC GROUP MEMBER.
-        /close                          # THE ADMIN CLOSE COMMUNICATIONS BETWEEN ALL ONLINE GROUP MEMBERS.
-        /chathistory                    # APPEARS ALL THE MESSAGES(PUBLIC+PRIVATE).
-        /exit                           # EXIT THE SERVICE.
+/m      [message]               # SENDS MESSAGE TO ALL GROUP MEMBERS.
+/msg    [name] [message]        # SENDS PRIVATE MESSAGE TO SPECIFIC GROUP MEMBER.
+/close                          # THE ADMIN CLOSE COMMUNICATIONS BETWEEN ALL ONLINE GROUP MEMBERS
+/chathistory                    # APPEARS ALL THE MESSAGES(PUBLIC+PRIVATE).
+/exit                           # EXIT THE SERVICE.
