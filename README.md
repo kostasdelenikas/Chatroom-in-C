@@ -38,3 +38,4 @@ Commands:       Parameters:
     /close                          # THE ADMIN CLOSE COMMUNICATIONS BETWEEN ALL ONLINE GROUP MEMBERS.
     /chathistory                    # APPEARS ALL THE MESSAGES(PUBLIC+PRIVATE).
     /exit                           # EXIT THE SERVICE.
+a
