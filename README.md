@@ -1,7 +1,7 @@
-# Chatroom-in-C
-A Chatroom service in C. The service splits up on the server side where all the functions taking place and the client side which every user uses. Clients can talk to one another via connecting to the server.
+    # Chatroom-in-C
+    A Chatroom service in C. The service splits up on the server side where all the functions taking place and the client side which every user uses. Clients can talk      to one another via connecting to the server.
 
-Specifications:
+    Specifications:
     The server and the client are connected to 127.0.0.1 ip address.
 
     This service can handle up to 100 clients .    
@@ -26,11 +26,11 @@ Specifications:
     
     Compile : make
 
-Run : ./server 5000
+    Run : ./server 5000
       ./client 5000
 
 
-Commands:       Parameters:
+    Commands:       Parameters:
         /m      [message]               # SENDS MESSAGE TO ALL GROUP MEMBERS.
         /msg    [name] [message]        # SENDS PRIVATE MESSAGE TO SPECIFIC GROUP MEMBER.
         /close                          # THE ADMIN CLOSE COMMUNICATIONS BETWEEN ALL ONLINE GROUP MEMBERS.
